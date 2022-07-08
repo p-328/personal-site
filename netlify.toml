@@ -2,4 +2,22 @@
   from = "/*"
   to = "/index.html"
   status = 200
+  from = "/about-engineeering"
+  to = "/about-engineering"
+  status = 200
+  from = "/about"
+  to = "/about"
+  status = 200
+  from = "/engineering-projects"
+  to = "/engineering-projects"
+  status = 200
+  from = "/coreldraw-keychain"
+  to = "/coreldraw-keychain"
+  status = 200
+  from = "/personal-projects"
+  to = "/personal-projects"
+  status = 200
+  from = "/balloon-car"
+  to = "/balloon-car"
+  status = 200
   
