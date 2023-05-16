@@ -7,7 +7,7 @@ import { AboutComponent } from './components/about/about.component';
 import { EngineeringProjectsComponent } from './components/tenth-grade/engineering-projects.component';
 import { PersonalProjectsComponent } from './components/personal-projects/personal-projects.component';
 import { HomepageComponent } from './components/homepage/homepage.component';
-import { NinthGradeComponent } from './components/ninth-grade/ninth-grade.component';
+import { NinthGradeComponent } from './ninth-grade/ninth-grade.component';
 
 @NgModule({
   declarations: [
